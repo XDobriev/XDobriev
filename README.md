@@ -10,7 +10,7 @@ Currently, I work as an in-house **IT Specialist** and **Business Process Automa
 
 I'm also passionate about education and share my knowledge with others:
 
-- **Tutor** at the first international cyber school for young programmers, [KiberOne](https://kiber-one.com)
+- **Tutor** at the first international cyber school for young programmers [KiberOne](https://kiber-one.com)
 - **Lecturer** at [ITHub College Magas](https://magas.ithub.ru), where I deliver lectures on various IT topics.
 
 
