@@ -1,8 +1,8 @@
-# Hi there, I'm Khamzat Dobriev! 👋
+# Hi there, I'm Khamza Dobriev! 👋
 
 ### About Me
 
-I'm a junior **Frontend Developer** with a passion for creating engaging and intuitive user interfaces. I have a strong foundation in web technologies and am constantly expanding my skills and knowledge in the field.
+I'm a **Frontend Developer** with a passion for creating engaging and intuitive user interfaces. I have a strong foundation in web technologies and am constantly expanding my skills and knowledge in the field.
 
 Currently, I work as an in-house **IT Specialist** and **Business Process Automation Manager** at a resort company. My role involves streamlining operations and implementing automated solutions to improve efficiency.
 
