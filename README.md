@@ -114,20 +114,9 @@
 | | |
 |---|---|
 | 👨‍🏫 **Преподаватель** | [ITHub Колледж Магас](https://magas.ithub.ru) — «Алгоритмы и структуры данных» |
-| 💻 **IT-консультант (1–3 года)** | Автоматизация учёта и отчётности в ресторанном бизнесе и здравоохранении: накладные, P&L, инвойсы, интеграции с iiko |
-| 🎓 **Обучение** | **PurpleSchool**: HTML/CSS ✅ · JS Basic ✅ · JS Advanced ✅ · TypeScript → React + Redux Toolkit → Next.js |
+| 💻 **IT-консультант (3 года)** | Автоматизация учёта и отчётности в ресторанном бизнесе и здравоохранении: накладные, P&L, инвойсы, интеграции с iiko |
+| 🎓 **Обучение** | **PurpleSchool**: HTML/CSS ✅ · JS Basic ✅ · JS Advanced ✅ · TypeScript ✅ · React + Redux Toolkit ✅ · Next.js ✅ |
 | 📍 **Локация** | Республика Ингушетия, Россия |
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XDobriev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XDobriev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
 
 ---
 
